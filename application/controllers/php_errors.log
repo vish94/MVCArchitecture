@@ -1,0 +1,693 @@
+[11-Dec-2015 12:10:55 UTC] PHP Warning:  require_once(D:/wamp/www/analytics/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:10:55 UTC] PHP Stack trace:
+[11-Dec-2015 12:10:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:10:55 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:10:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'D:/wamp/www/analytics/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:10:55 UTC] PHP Stack trace:
+[11-Dec-2015 12:10:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:10:55 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:11:46 UTC] PHP Warning:  require_once(D:/wamp/www/analytics/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:11:46 UTC] PHP Stack trace:
+[11-Dec-2015 12:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:11:46 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:11:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'D:/wamp/www/analytics/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:11:46 UTC] PHP Stack trace:
+[11-Dec-2015 12:11:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:11:46 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:12:22 UTC] PHP Warning:  require_once(home/ubuntu/workspace/analytics/): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:12:22 UTC] PHP Stack trace:
+[11-Dec-2015 12:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:12:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/analytics/' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:12:22 UTC] PHP Stack trace:
+[11-Dec-2015 12:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:12:22 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:13:02 UTC] PHP Warning:  require_once(home/ubuntu/workspace/analytics/): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:13:02 UTC] PHP Stack trace:
+[11-Dec-2015 12:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:13:02 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:13:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/analytics/' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:13:02 UTC] PHP Stack trace:
+[11-Dec-2015 12:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:13:02 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:13:23 UTC] PHP Warning:  require_once(home/ubuntu/workspace/analytics/library/): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:13:23 UTC] PHP Stack trace:
+[11-Dec-2015 12:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:13:23 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:13:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/analytics/library/' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:13:23 UTC] PHP Stack trace:
+[11-Dec-2015 12:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:13:23 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:14:00 UTC] PHP Warning:  require_once(home/ubuntu/workspace/analytics/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:14:00 UTC] PHP Stack trace:
+[11-Dec-2015 12:14:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:14:00 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:14:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/analytics/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:14:00 UTC] PHP Stack trace:
+[11-Dec-2015 12:14:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:14:00 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:15:06 UTC] PHP Warning:  require_once(home/ubuntu/workspace/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:15:06 UTC] PHP Stack trace:
+[11-Dec-2015 12:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:15:06 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:15:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:15:06 UTC] PHP Stack trace:
+[11-Dec-2015 12:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:15:06 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:15:43 UTC] PHP Warning:  require_once(home/ubuntu/workspace/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:15:43 UTC] PHP Stack trace:
+[11-Dec-2015 12:15:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:15:43 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:15:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:15:43 UTC] PHP Stack trace:
+[11-Dec-2015 12:15:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:15:43 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:16:18 UTC] PHP Warning:  require_once(home/ubuntu/workspace/library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:16:18 UTC] PHP Stack trace:
+[11-Dec-2015 12:16:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:16:18 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:16:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/ubuntu/workspace/library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:16:18 UTC] PHP Stack trace:
+[11-Dec-2015 12:16:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:16:18 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:16:48 UTC] PHP Warning:  require_once(../../library/parameters.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:16:48 UTC] PHP Stack trace:
+[11-Dec-2015 12:16:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:16:48 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:16:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../../library/parameters.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 3
+[11-Dec-2015 12:16:48 UTC] PHP Stack trace:
+[11-Dec-2015 12:16:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:16:48 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:05 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/analytics/library/initialize.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:17:05 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:05 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/analytics/library/initialize.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/application/controllers/public/set.php on line 4
+[11-Dec-2015 12:17:05 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:05 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'srdtuorg_vishesh'@'localhost' (using password: YES) in /home/ubuntu/workspace/application/models/class.database.php on line 17
+[11-Dec-2015 12:17:50 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:50 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:50 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:17:50 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:17:50 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:17:50 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:17:50 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:17:50 UTC] PHP   8. mysqli_connect() /home/ubuntu/workspace/application/models/class.database.php:17
+[11-Dec-2015 12:17:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/application/models/class.database.php on line 19
+[11-Dec-2015 12:17:50 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:50 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:50 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:17:50 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:17:50 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:17:50 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:17:50 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:17:50 UTC] PHP   8. mysqli_error() /home/ubuntu/workspace/application/models/class.database.php:19
+[11-Dec-2015 12:17:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'srdtuorg_vishesh'@'localhost' (using password: YES) in /home/ubuntu/workspace/application/models/class.database.php on line 17
+[11-Dec-2015 12:17:59 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:17:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:17:59 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:17:59 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:17:59 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:17:59 UTC] PHP   8. mysqli_connect() /home/ubuntu/workspace/application/models/class.database.php:17
+[11-Dec-2015 12:17:59 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/application/models/class.database.php on line 19
+[11-Dec-2015 12:17:59 UTC] PHP Stack trace:
+[11-Dec-2015 12:17:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:17:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:17:59 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:17:59 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:17:59 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:17:59 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:17:59 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:17:59 UTC] PHP   8. mysqli_error() /home/ubuntu/workspace/application/models/class.database.php:19
+[11-Dec-2015 12:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'srdtuorg_vishesh'@'localhost' (using password: YES) in /home/ubuntu/workspace/application/models/class.database.php on line 17
+[11-Dec-2015 12:30:07 UTC] PHP Stack trace:
+[11-Dec-2015 12:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:30:07 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:30:07 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:30:07 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:30:07 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:30:07 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:30:07 UTC] PHP   8. mysqli_connect() /home/ubuntu/workspace/application/models/class.database.php:17
+[11-Dec-2015 12:30:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ubuntu/workspace/application/models/class.database.php on line 19
+[11-Dec-2015 12:30:07 UTC] PHP Stack trace:
+[11-Dec-2015 12:30:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/index.php:0
+[11-Dec-2015 12:30:07 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/index.php:2
+[11-Dec-2015 12:30:07 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 12:30:07 UTC] PHP   4. require_once() /home/ubuntu/workspace/library/initialize.php:8
+[11-Dec-2015 12:30:07 UTC] PHP   5. require_once() /home/ubuntu/workspace/application/models/class.database_object.php:2
+[11-Dec-2015 12:30:07 UTC] PHP   6. MySQLDatabase->__construct() /home/ubuntu/workspace/application/models/class.database.php:74
+[11-Dec-2015 12:30:07 UTC] PHP   7. MySQLDatabase->open_connection() /home/ubuntu/workspace/application/models/class.database.php:12
+[11-Dec-2015 12:30:07 UTC] PHP   8. mysqli_error() /home/ubuntu/workspace/application/models/class.database.php:19
+[11-Dec-2015 12:50:46 UTC] PHP Notice:  Undefined property: Hits::$datetime in /home/ubuntu/workspace/application/views/public/hits.php on line 24
+[11-Dec-2015 12:50:46 UTC] PHP Stack trace:
+[11-Dec-2015 12:50:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/hits.php:0
+[11-Dec-2015 12:50:46 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/hits.php:21
+[11-Dec-2015 12:51:01 UTC] PHP Notice:  Undefined property: Hits::$datetime in /home/ubuntu/workspace/application/views/public/hits.php on line 24
+[11-Dec-2015 12:51:01 UTC] PHP Stack trace:
+[11-Dec-2015 12:51:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/hits.php:0
+[11-Dec-2015 12:51:01 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/hits.php:21
+[11-Dec-2015 12:51:01 UTC] PHP Notice:  Undefined property: Hits::$datetime in /home/ubuntu/workspace/application/views/public/hits.php on line 24
+[11-Dec-2015 12:51:01 UTC] PHP Stack trace:
+[11-Dec-2015 12:51:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/hits.php:0
+[11-Dec-2015 12:51:01 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/hits.php:21
+[11-Dec-2015 12:51:01 UTC] PHP Notice:  Undefined property: Hits::$datetime in /home/ubuntu/workspace/application/views/public/hits.php on line 24
+[11-Dec-2015 12:51:01 UTC] PHP Stack trace:
+[11-Dec-2015 12:51:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/hits.php:0
+[11-Dec-2015 12:51:01 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/hits.php:21
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:42:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:42:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:42:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:45:43 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:45:43 UTC] PHP Stack trace:
+[11-Dec-2015 14:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:45:43 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:45:43 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:45:43 UTC] PHP Stack trace:
+[11-Dec-2015 14:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:45:43 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:45:43 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:45:43 UTC] PHP Stack trace:
+[11-Dec-2015 14:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:45:43 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:46:39 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:46:39 UTC] PHP Stack trace:
+[11-Dec-2015 14:46:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:46:39 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:46:39 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:46:39 UTC] PHP Stack trace:
+[11-Dec-2015 14:46:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:46:39 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:46:39 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:46:39 UTC] PHP Stack trace:
+[11-Dec-2015 14:46:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:46:39 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:47:07 UTC] PHP Fatal error:  Cannot use object of type Hits as array in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:47:07 UTC] PHP Stack trace:
+[11-Dec-2015 14:47:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:47:07 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:13 UTC] PHP Fatal error:  Cannot use object of type Hits as array in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:13 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:13 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:31 UTC] PHP Notice:  Undefined variable: countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:31 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:31 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:31 UTC] PHP Notice:  Undefined variable: countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:31 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:31 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:31 UTC] PHP Notice:  Undefined variable: countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:31 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:31 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:49 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:49 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:49 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:49 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:49 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:49 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:50:49 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:50:49 UTC] PHP Stack trace:
+[11-Dec-2015 14:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:50:49 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:54:17 UTC] PHP Fatal error:  Cannot use object of type Hits as array in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:54:17 UTC] PHP Stack trace:
+[11-Dec-2015 14:54:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:54:17 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:54:48 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:54:48 UTC] PHP Stack trace:
+[11-Dec-2015 14:54:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:54:48 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:54:48 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:54:48 UTC] PHP Stack trace:
+[11-Dec-2015 14:54:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:54:48 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:54:48 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:54:48 UTC] PHP Stack trace:
+[11-Dec-2015 14:54:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:54:48 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 14:55:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:55:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:55:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:55:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 14:55:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:55:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:55:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:55:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 14:55:26 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 14:55:26 UTC] PHP Stack trace:
+[11-Dec-2015 14:55:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 14:55:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:01:15 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:01:15 UTC] PHP Stack trace:
+[11-Dec-2015 15:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:01:15 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:01:15 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:01:15 UTC] PHP Stack trace:
+[11-Dec-2015 15:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:01:15 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:01:15 UTC] PHP Notice:  Undefined property: Hits::$countpage in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:01:15 UTC] PHP Stack trace:
+[11-Dec-2015 15:01:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:01:15 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:21 UTC] PHP Fatal error:  Call to undefined method Hits::count() in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:21 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:21 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:33 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:33 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:33 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:33 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:33 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:33 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:33 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:33 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:33 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:56 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:56 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:56 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:56 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:56 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:56 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:03:56 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:03:56 UTC] PHP Stack trace:
+[11-Dec-2015 15:03:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:03:56 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:11 UTC] PHP Notice:  Use of undefined constant count - assumed 'count' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:11 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:11 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:11 UTC] PHP Notice:  Use of undefined constant count - assumed 'count' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:11 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:11 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:11 UTC] PHP Notice:  Use of undefined constant count - assumed 'count' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:11 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:11 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:20 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:20 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:20 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:20 UTC] PHP   3. count() /home/ubuntu/workspace/application/views/public/unique.php:17
+[11-Dec-2015 15:04:20 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:20 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:20 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:20 UTC] PHP   3. count() /home/ubuntu/workspace/application/views/public/unique.php:17
+[11-Dec-2015 15:04:20 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:20 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:20 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:20 UTC] PHP   3. count() /home/ubuntu/workspace/application/views/public/unique.php:17
+[11-Dec-2015 15:04:26 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:26 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:26 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:26 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:04:26 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:04:26 UTC] PHP Stack trace:
+[11-Dec-2015 15:04:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:04:26 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:06:13 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:06:13 UTC] PHP Stack trace:
+[11-Dec-2015 15:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:06:13 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:06:13 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:06:13 UTC] PHP Stack trace:
+[11-Dec-2015 15:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:06:13 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:06:13 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:06:13 UTC] PHP Stack trace:
+[11-Dec-2015 15:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:06:13 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:07:10 UTC] PHP Parse error:  syntax error, unexpected 'COUNTS' (T_STRING) in /home/ubuntu/workspace/application/models/class.hits.php on line 35
+[11-Dec-2015 15:07:10 UTC] PHP Stack trace:
+[11-Dec-2015 15:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:07:10 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:2
+[11-Dec-2015 15:07:10 UTC] PHP   3. require_once() /home/ubuntu/workspace/application/controllers/public/set.php:4
+[11-Dec-2015 15:07:28 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:07:28 UTC] PHP Stack trace:
+[11-Dec-2015 15:07:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:07:28 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:07:28 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:07:28 UTC] PHP Stack trace:
+[11-Dec-2015 15:07:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:07:28 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:07:28 UTC] PHP Notice:  Use of undefined constant page - assumed 'page' in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:07:28 UTC] PHP Stack trace:
+[11-Dec-2015 15:07:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:07:28 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:12
+[11-Dec-2015 15:12:44 UTC] PHP Notice:  Undefined variable: sql in /home/ubuntu/workspace/application/models/class.hits.php on line 40
+[11-Dec-2015 15:12:44 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:44 UTC] PHP   2. Hits::count_distinct_by_domain_id() /home/ubuntu/workspace/application/controllers/public/unique.php:7
+[11-Dec-2015 15:12:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/application/models/class.database.php on line 32
+[11-Dec-2015 15:12:44 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:44 UTC] PHP   2. Hits::count_distinct_by_domain_id() /home/ubuntu/workspace/application/controllers/public/unique.php:7
+[11-Dec-2015 15:12:44 UTC] PHP   3. MySQLDatabase->query() /home/ubuntu/workspace/application/models/class.hits.php:40
+[11-Dec-2015 15:12:44 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/application/models/class.database.php:32
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 16
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 16
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 16
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:12:59 UTC] PHP Notice:  Undefined variable: hit in /home/ubuntu/workspace/application/views/public/unique.php on line 17
+[11-Dec-2015 15:12:59 UTC] PHP Stack trace:
+[11-Dec-2015 15:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/unique.php:0
+[11-Dec-2015 15:12:59 UTC] PHP   2. include() /home/ubuntu/workspace/application/controllers/public/unique.php:11
+[11-Dec-2015 15:29:08 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[11-Dec-2015 15:29:08 UTC] PHP Stack trace:
+[11-Dec-2015 15:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[11-Dec-2015 15:29:08 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[11-Dec-2015 15:29:08 UTC] PHP Stack trace:
+[11-Dec-2015 15:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[11-Dec-2015 15:29:08 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[11-Dec-2015 15:29:08 UTC] PHP Stack trace:
+[11-Dec-2015 15:29:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[12-Dec-2015 15:54:46 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[12-Dec-2015 15:54:46 UTC] PHP Stack trace:
+[12-Dec-2015 15:54:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[12-Dec-2015 15:54:46 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[12-Dec-2015 15:54:46 UTC] PHP Stack trace:
+[12-Dec-2015 15:54:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[12-Dec-2015 15:54:46 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[12-Dec-2015 15:54:46 UTC] PHP Stack trace:
+[12-Dec-2015 15:54:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 11:49:41 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[20-Dec-2015 11:49:41 UTC] PHP Stack trace:
+[20-Dec-2015 11:49:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 11:49:41 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[20-Dec-2015 11:49:41 UTC] PHP Stack trace:
+[20-Dec-2015 11:49:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 11:49:41 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[20-Dec-2015 11:49:41 UTC] PHP Stack trace:
+[20-Dec-2015 11:49:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 20:40:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[20-Dec-2015 20:40:01 UTC] PHP Stack trace:
+[20-Dec-2015 20:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 20:40:01 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[20-Dec-2015 20:40:01 UTC] PHP Stack trace:
+[20-Dec-2015 20:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[20-Dec-2015 20:40:01 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[20-Dec-2015 20:40:01 UTC] PHP Stack trace:
+[20-Dec-2015 20:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[21-Dec-2015 12:13:51 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[21-Dec-2015 12:13:51 UTC] PHP Stack trace:
+[21-Dec-2015 12:13:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[21-Dec-2015 12:13:51 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[21-Dec-2015 12:13:51 UTC] PHP Stack trace:
+[21-Dec-2015 12:13:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[21-Dec-2015 12:13:51 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[21-Dec-2015 12:13:51 UTC] PHP Stack trace:
+[21-Dec-2015 12:13:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 02:16:27 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 02:16:27 UTC] PHP Stack trace:
+[22-Dec-2015 02:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 02:16:27 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 02:16:27 UTC] PHP Stack trace:
+[22-Dec-2015 02:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 02:16:27 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 02:16:27 UTC] PHP Stack trace:
+[22-Dec-2015 02:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:16:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:16:32 UTC] PHP Stack trace:
+[22-Dec-2015 07:16:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:16:32 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:16:32 UTC] PHP Stack trace:
+[22-Dec-2015 07:16:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:16:32 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:16:32 UTC] PHP Stack trace:
+[22-Dec-2015 07:16:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:17:26 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:17:26 UTC] PHP Stack trace:
+[22-Dec-2015 07:17:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:17:26 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:17:26 UTC] PHP Stack trace:
+[22-Dec-2015 07:17:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:17:26 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:17:26 UTC] PHP Stack trace:
+[22-Dec-2015 07:17:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:18:37 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:18:37 UTC] PHP Stack trace:
+[22-Dec-2015 07:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:18:37 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:18:37 UTC] PHP Stack trace:
+[22-Dec-2015 07:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:18:37 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:18:37 UTC] PHP Stack trace:
+[22-Dec-2015 07:18:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:09 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:55:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:09 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:55:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:09 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:55:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:55 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:55:55 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:55 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:55:55 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:55:55 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:55:55 UTC] PHP Stack trace:
+[22-Dec-2015 07:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:57:35 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:57:35 UTC] PHP Stack trace:
+[22-Dec-2015 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:57:35 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:57:35 UTC] PHP Stack trace:
+[22-Dec-2015 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:57:35 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:57:35 UTC] PHP Stack trace:
+[22-Dec-2015 07:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:59:09 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:59:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:59:09 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 07:59:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 07:59:09 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 07:59:09 UTC] PHP Stack trace:
+[22-Dec-2015 07:59:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:01 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:02:01 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:01 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:02:01 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:01 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 08:02:01 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:27 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:02:27 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:27 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:02:27 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:02:27 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 08:02:27 UTC] PHP Stack trace:
+[22-Dec-2015 08:02:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:13:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:13:34 UTC] PHP Stack trace:
+[22-Dec-2015 08:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:13:34 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:13:34 UTC] PHP Stack trace:
+[22-Dec-2015 08:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:13:34 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 08:13:34 UTC] PHP Stack trace:
+[22-Dec-2015 08:13:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:29:25 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:29:25 UTC] PHP Stack trace:
+[22-Dec-2015 08:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:29:25 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 08:29:25 UTC] PHP Stack trace:
+[22-Dec-2015 08:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 08:29:25 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 08:29:25 UTC] PHP Stack trace:
+[22-Dec-2015 08:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:39:04 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:39:04 UTC] PHP Stack trace:
+[22-Dec-2015 09:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:39:04 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:39:04 UTC] PHP Stack trace:
+[22-Dec-2015 09:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:39:04 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 09:39:04 UTC] PHP Stack trace:
+[22-Dec-2015 09:39:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:14 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:40:14 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:14 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:40:14 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:14 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 09:40:14 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:33 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:40:33 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:33 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 09:40:33 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 09:40:33 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 09:40:33 UTC] PHP Stack trace:
+[22-Dec-2015 09:40:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 11:08:46 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 11:08:46 UTC] PHP Stack trace:
+[22-Dec-2015 11:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 11:08:46 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 11:08:46 UTC] PHP Stack trace:
+[22-Dec-2015 11:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 11:08:46 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 11:08:46 UTC] PHP Stack trace:
+[22-Dec-2015 11:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 12:05:54 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 12:05:54 UTC] PHP Stack trace:
+[22-Dec-2015 12:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 12:05:54 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 12:05:54 UTC] PHP Stack trace:
+[22-Dec-2015 12:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 12:05:54 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 12:05:54 UTC] PHP Stack trace:
+[22-Dec-2015 12:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:16:09 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 13:16:09 UTC] PHP Stack trace:
+[22-Dec-2015 13:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:16:09 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 13:16:09 UTC] PHP Stack trace:
+[22-Dec-2015 13:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:16:09 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 13:16:09 UTC] PHP Stack trace:
+[22-Dec-2015 13:16:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:56:36 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 13:56:36 UTC] PHP Stack trace:
+[22-Dec-2015 13:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:56:36 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 13:56:36 UTC] PHP Stack trace:
+[22-Dec-2015 13:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 13:56:36 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 13:56:36 UTC] PHP Stack trace:
+[22-Dec-2015 13:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 16:28:14 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 16:28:14 UTC] PHP Stack trace:
+[22-Dec-2015 16:28:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 16:28:14 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 16:28:14 UTC] PHP Stack trace:
+[22-Dec-2015 16:28:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 16:28:14 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 16:28:14 UTC] PHP Stack trace:
+[22-Dec-2015 16:28:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 17:40:43 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 17:40:43 UTC] PHP Stack trace:
+[22-Dec-2015 17:40:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 17:40:43 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 17:40:43 UTC] PHP Stack trace:
+[22-Dec-2015 17:40:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 17:40:43 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 17:40:43 UTC] PHP Stack trace:
+[22-Dec-2015 17:40:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 23:49:10 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 23:49:10 UTC] PHP Stack trace:
+[22-Dec-2015 23:49:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 23:49:10 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[22-Dec-2015 23:49:10 UTC] PHP Stack trace:
+[22-Dec-2015 23:49:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[22-Dec-2015 23:49:10 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[22-Dec-2015 23:49:10 UTC] PHP Stack trace:
+[22-Dec-2015 23:49:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 00:41:15 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 00:41:15 UTC] PHP Stack trace:
+[23-Dec-2015 00:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 00:41:15 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 00:41:15 UTC] PHP Stack trace:
+[23-Dec-2015 00:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 00:41:15 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[23-Dec-2015 00:41:15 UTC] PHP Stack trace:
+[23-Dec-2015 00:41:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:06:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 06:06:34 UTC] PHP Stack trace:
+[23-Dec-2015 06:06:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:06:34 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 06:06:34 UTC] PHP Stack trace:
+[23-Dec-2015 06:06:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:06:34 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[23-Dec-2015 06:06:34 UTC] PHP Stack trace:
+[23-Dec-2015 06:06:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:43:04 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 06:43:04 UTC] PHP Stack trace:
+[23-Dec-2015 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:43:04 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 06:43:04 UTC] PHP Stack trace:
+[23-Dec-2015 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 06:43:04 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[23-Dec-2015 06:43:04 UTC] PHP Stack trace:
+[23-Dec-2015 06:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 07:07:19 UTC] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 07:07:19 UTC] PHP Stack trace:
+[23-Dec-2015 07:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 07:07:19 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/application/controllers/public/update.php on line 9
+[23-Dec-2015 07:07:19 UTC] PHP Stack trace:
+[23-Dec-2015 07:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
+[23-Dec-2015 07:07:19 UTC] PHP Fatal error:  Call to undefined method stdClass::save() in /home/ubuntu/workspace/application/controllers/public/update.php on line 10
+[23-Dec-2015 07:07:19 UTC] PHP Stack trace:
+[23-Dec-2015 07:07:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/application/controllers/public/update.php:0
