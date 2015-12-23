@@ -1,12 +1,12 @@
 <?php
 if ($_SERVER['HTTP_HOST']=="localhost") {
-	$dir_root = $_SERVER['DOCUMENT_ROOT'].'/analytics/';
-	$dir_site = 'http://localhost/analytics/';
-	$baseUrl = 'http://localhost/analytics/';
+	$dir_root = $_SERVER['DOCUMENT_ROOT'].'/projectname/';
+	$dir_site = 'http://localhost/projectname/';
+	$baseUrl = 'http://localhost/projectname/';
 } else {
 	$dir_root = '/home/ubuntu/workspace/';
-	$dir_site = 'https://analytics-vish94.c9users.io/';
-	$baseUrl = 'https://analytics-vish94.c9users.io/';
+	$dir_site = 'https://yourdomain.com/';
+	$baseUrl = 'https://yourdomain.com/';
 } 
 
 $cdn = $dir_site.'assets/';
@@ -41,12 +41,12 @@ $dir_public = $dir_views.'public/';
 $dir_public_requires = $dir_public.'requires/';
 
 
-$title = "Analytics";
-$description = "Analytics";
+$title = "Title";
+$description = "Description";
 
 $url = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
-//$meta_keywords = "DTU, Delhi, Delhi Technological University, Society, Society of Robotics, Robotics, Student, Robots, Electronics, Electrical, Mechanical";
+//$meta_keywords = "Meta";
 
 $time = strftime("%Y-%m-%d %H:%M:%S", time()+1800);
 ?>
