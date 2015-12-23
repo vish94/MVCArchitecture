@@ -8,11 +8,6 @@
 
 	RewriteRule ^/?$ application/controllers/public/index.php [NC,L]
 	RewriteRule ^home/?$ application/controllers/public/index.php [NC,L]
-	RewriteRule ^add/?$ application/controllers/public/add.php [NC,L]
-	RewriteRule ^show/?$ application/controllers/public/show.php [NC,L]
-	RewriteRule ^hits/?$ application/controllers/public/hits.php [NC,L]
-	RewriteRule ^unique/?$ application/controllers/public/unique.php [NC,L]
 
-	RewriteRule ^update/?$ application/controllers/public/update.php [NC,L]
 
 </IfModule>
