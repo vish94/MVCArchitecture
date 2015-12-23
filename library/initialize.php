@@ -7,8 +7,7 @@ require_once($dir_functions.'functions.php');
 
 require_once($dir_class.'class.database_object.php');
 require_once($dir_class.'class.database.php');
-require_once($dir_class.'class.domains.php');
-require_once($dir_class.'class.hits.php');
+require_once($dir_class.'class.blank.php');
 
 
 ?>
