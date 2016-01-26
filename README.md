@@ -16,4 +16,4 @@ In addition to dividing the application into three kinds of components, the mode
 <li>A model stores data that is retrieved according to commands from the controller and displayed in the view.</li>
 <li>A view generates an output presentation to the user based on changes in the model.</li>
 <li>A view controller generates an output view and an embedded controller</li>
-</ul>
+</ul> 
